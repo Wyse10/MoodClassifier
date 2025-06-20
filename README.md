@@ -55,3 +55,8 @@ uvicorn app.main:app --reload
 1. Clone the repo:
 ```bash
 git clone https://github.com/Wyse10/MoodClassifier.git
+
+## 📊 Author
+Solomon Monne
+
+Happy Coding ✨
